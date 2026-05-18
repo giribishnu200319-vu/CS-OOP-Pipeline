@@ -1,0 +1,19 @@
+Master started. Target number: 122
+Starting 10 agent(s)...
+
+Waiting for agents to connect...
+
+
+*** Winner: Agent 5 guessed the number 122. ***
+
+All agent times:
+  Agent 1: 15489 ms — Agent 5 guessed the number 122.
+  Agent 2: 15481 ms — Agent 2 guessed the number 122.
+  Agent 3: 15470 ms — Agent 3 guessed the number 122.
+  Agent 4: 15452 ms — Agent 10 guessed the number 122.
+  Agent 5: 15436 ms — Agent 8 guessed the number 122.
+  Agent 6: 15426 ms — Agent 1 guessed the number 122.
+  Agent 7: 15396 ms — Agent 4 guessed the number 122.
+  Agent 8: 15386 ms — Agent 6 guessed the number 122.
+  Agent 9: 15340 ms — Agent 7 guessed the number 122.
+  Agent 10: 15315 ms — Agent 9 guessed the number 122.

@@ -1,0 +1,15 @@
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/bin/Debug/net10.0/Master
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/bin/Debug/net10.0/Master.deps.json
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/bin/Debug/net10.0/Master.runtimeconfig.json
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/bin/Debug/net10.0/Master.dll
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/bin/Debug/net10.0/Master.pdb
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.AssemblyInfoInputs.cache
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.AssemblyInfo.cs
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.csproj.CoreCompileInputs.cache
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.sourcelink.json
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.dll
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/refint/Master.dll
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.pdb
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/Master.genruntimeconfig.cache
+/Users/bishnugiri/Desktop/OOP/Pipeline/Master/obj/Debug/net10.0/ref/Master.dll

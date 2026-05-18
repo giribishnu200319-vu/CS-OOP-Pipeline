@@ -1,0 +1,15 @@
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/bin/Debug/net10.0/Agent
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/bin/Debug/net10.0/Agent.deps.json
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/bin/Debug/net10.0/Agent.runtimeconfig.json
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/bin/Debug/net10.0/Agent.dll
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/bin/Debug/net10.0/Agent.pdb
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.AssemblyInfoInputs.cache
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.AssemblyInfo.cs
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.csproj.CoreCompileInputs.cache
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.sourcelink.json
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.dll
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/refint/Agent.dll
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.pdb
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/Agent.genruntimeconfig.cache
+/Users/bishnugiri/Desktop/OOP/Pipeline/Agent/obj/Debug/net10.0/ref/Agent.dll

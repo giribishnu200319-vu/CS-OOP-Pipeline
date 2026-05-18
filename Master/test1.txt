@@ -1,0 +1,12 @@
+Master started. Target number: 342
+Starting 3 agent(s)...
+
+Waiting for agents to connect...
+
+
+*** Winner: Agent 1 guessed the number 342. ***
+
+All agent times:
+  Agent 1: 10740 ms — Agent 1 guessed the number 342.
+  Agent 2: 10724 ms — Agent 3 guessed the number 342.
+  Agent 3: 10709 ms — Agent 2 guessed the number 342.
