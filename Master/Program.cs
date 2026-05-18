@@ -36,6 +36,16 @@ class Master
             };
 
             processes[i] = Process.Start(psi)!;
+
+            if (OperatingSystem.IsWindows())
+            {
+                processes[i].ProcessorAffinity = (IntPtr)(1 << i);
+                Console.WriteLine($"Agent {i + 1} pinned to CPU core {i}");
+            }
+            else
+            {
+                Console.WriteLine($"Agent {i + 1} started (core pinning skipped on macOS)");
+            }
         }
 
         Console.WriteLine("Waiting for agents to connect...\n");
